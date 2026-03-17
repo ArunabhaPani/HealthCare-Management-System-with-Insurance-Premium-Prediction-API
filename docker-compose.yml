@@ -1,0 +1,20 @@
+
+services:
+
+  backend:
+    image: saryomen/healthcare_backend
+    ports:
+      - "8000:8000"
+
+  prediction:
+    image: saryomen/healthcare_prediction
+    ports:
+      - "8001:8001"
+
+  frontend:
+    image: saryomen/healthcare_frontend
+    ports:
+      - "8501:8501"
+    depends_on:
+      - backend
+      - prediction
