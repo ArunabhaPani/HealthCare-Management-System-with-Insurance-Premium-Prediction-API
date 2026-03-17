@@ -1,5 +1,5 @@
-```markdown
-# 🏥 HealthCare Management System with Insurance Premium Prediction API
+# 🏥 HealthCare Management System with Insurance Premium Prediction AP
+```markdownI
 
 A **machine learning-powered healthcare application** that predicts the **insurance premium category** based on patient attributes such as demographics and health indicators.
 
