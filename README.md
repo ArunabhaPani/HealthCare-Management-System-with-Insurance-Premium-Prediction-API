@@ -1,4 +1,4 @@
-# 🏥 HealthCare Management System with Insurance Premium Prediction AP
+# 🏥 HealthCare Management System with Insurance Premium Prediction API
 
 
 A **machine learning-powered healthcare application** that predicts the **insurance premium category** based on patient attributes such as demographics and health indicators.
